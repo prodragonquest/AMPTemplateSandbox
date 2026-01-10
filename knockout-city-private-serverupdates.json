@@ -5,9 +5,10 @@
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "2915930",
         "UpdateSourceArgs": "2915930",
-        "UnzipUpdateSource": true,
+        "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": false,
-        "OneShot": true
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": false
     }
 ]

@@ -1,7 +1,7 @@
 Meta.DisplayName=Knockout City Private Server
 Meta.Description=
 Meta.Arch=x86_64
-Meta.Author= - Made with AMP Config Generator
+Meta.Author=prodragonquest - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/2915930/Knockout_City__Private_Server_Edition/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=cubecoders/ampbase:wine
@@ -10,7 +10,7 @@ Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$SteamQueryPort}
-Meta.AppConfigId=06e14642-fd98-4cc7-9b5e-1bd3d569c895
+Meta.AppConfigId=7590f255-6780-4c82-aa82-afc34cb54fa2
 App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=false
