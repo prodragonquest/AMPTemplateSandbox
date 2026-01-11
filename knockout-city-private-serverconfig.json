@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "DisplayName": "Server Password",
+        "Category": "Server Settings",
+        "Description": "Password for the server",
+        "Keywords": "server,password",
+        "FieldName": "secret",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "secret",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Port",
+        "Category": "Server Settings",
+        "Description": "Port for connecting players",
+        "Keywords": "server,port",
+        "FieldName": "backend_port",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "backend_port",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "23600",
+        "Placeholder": "23600",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": true,
+        "EnumValues": {}
+    }
+]
